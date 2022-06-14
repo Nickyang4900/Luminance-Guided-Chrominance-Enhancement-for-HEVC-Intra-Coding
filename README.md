@@ -1,5 +1,5 @@
 # Luminance-Guided Chrominance Enhancement for HEVC Intra Coding
-The official code implementation of paper 'Luminance-Guided Chrominance Enhancement for HEVC Intra Coding' 
+The official code implementation of paper: Hewei Liu, Renwei Yang(co-first), Shuyuan Zhu, Xing Wen, Bing Zeng, 'Luminance-Guided Chrominance Image Enhancement for HEVC Intra Coding' ISCAS 2022 [[paper]](https://arxiv.org/abs/2206.05432) 
 
 ## Abstract
 In this paper, we propose a luminance-guided chrominance image enhancement convolutional neural network for HEVC intra coding. Specifically, we firstly develop a gated recursive asymmetric-convolution block to restore each degraded chrominance image, which generates an intermediate output. Then, guided by the luminance image, the quality of this intermediate output is further improved, which finally produces the high-quality chrominance image. When our proposed method is adopted in the compression of color images with HEVC intra coding, it achieves 28.96\% and 16.74\% BD-rate gains over HEVC for the U and V images, respectively, which accordingly demonstrate its superiority
