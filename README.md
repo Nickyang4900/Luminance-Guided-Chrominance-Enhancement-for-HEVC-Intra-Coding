@@ -1,4 +1,4 @@
-# Luminance-Guided Chrominance Enhancement for HEVC Intra Coding
+# Luminance-Guided Chrominance Image Enhancement for HEVC Intra Coding
 The official code implementation of paper: Hewei Liu, Renwei Yang(co-first), Shuyuan Zhu, Xing Wen, Bing Zeng, 'Luminance-Guided Chrominance Image Enhancement for HEVC Intra Coding' ISCAS 2022 [[paper]](https://arxiv.org/abs/2206.05432) 
 
 ## Abstract
